@@ -28,6 +28,7 @@ Component({
     ]
   },
   attached() {
+//
   },
   methods: {
     switchTab(e) {
